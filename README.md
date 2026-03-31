@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokulakrishnan Dhanasekar</h1>
-<h3 align="center"> 👨‍🔧⚡Electical Engineeer</h3>
+<h3 align="center"> 👨‍🔧⚡Electical And Electronics Engineeer</h3>
 
-- 🔭 I’m currently Studying in **Dhnalakshmi College of Engineering,Chennai**
+- 🔭 I’m studied in **Dhanalakshmi College of Engineering,Chennai**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gokulkrishnan-Dhanansekar](https://github.com/Gokulakrishnan-Dhanasekar)
 
